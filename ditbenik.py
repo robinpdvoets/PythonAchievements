@@ -8,7 +8,7 @@ while a == True:
     time.sleep (1)
 
     username = input("Mijn naam is:")
-    print("Goededag " + username, "Ik zal je even de datum doorgeven")
+    print("Goededag " + username, "Ik heb trouwens een paar vragen voor je!")
 
     time.sleep (1)
 
